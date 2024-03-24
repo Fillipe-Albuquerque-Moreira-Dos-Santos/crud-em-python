@@ -1,0 +1,13 @@
+Nome: Fillipe Albuquerque Moreira dos Santos
+
+- Anotações sobre o desafio Estágio de desenvolvimento - Oak Tecnologia
+
+- Fiz fazer em python pela facilidade de manipulação do código usei o flask.
+
+- Fiz um CRUD (create,read,update e delete) para deixar a aplicação mais completa.
+
+- Usei o método MVC para separar os arquivos python, HTML e css
+
+- Deixarei no zip uma foto da aplicação funcionando.
+
+python app.py para abrir a aplicação em python
